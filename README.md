@@ -34,7 +34,7 @@ A responsive web application consisting of two interactive projects: a **Weather
 ## 📁 Project Structure
 
 ```text
-Minor_Project_05/
+minor-project-03-unlox/
 │
 ├── Weather-App/
 │   ├── index.html
